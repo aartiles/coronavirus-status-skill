@@ -1,0 +1,165 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "estado coronavirus",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AskByCityIntent",
+                    "slots": [
+                        {
+                            "name": "location",
+                            "type": "AMAZON.City",
+                            "samples": [
+                                "en {location}",
+                                "para {location}",
+                                "de {location}",
+                                "{location}"
+                            ]
+                        }
+                    ],
+                    "samples": [
+                        "en {location}",
+                        "de {location}",
+                        "para {location}",
+                        "{location}",
+                        "dime el estado del coronavirus en {location}",
+                        "dime el estado en {location}",
+                        "dime el estado de {location}",
+                        "dime el estado para {location}",
+                        "cuántos afectados hay en {location}",
+                        "cuántos infectados hay en {location}",
+                        "cuántos enfermos hay en {location}",
+                        "cuántos contagios hay en {location}",
+                        "cuántos contagiados hay en {location}",
+                        "cuántos muertos hay en {location}",
+                        "cuántos fallecidos hay en {location}",
+                        "cuántos recuperados hay en {location}",
+                        "cuántos curados hay en {location}",
+                        "cuántos casos hay en {location}",
+                        "cuántos afectados por coronavirus hay en {location}",
+                        "cuántos infectados por coronavirus hay en {location}",
+                        "cuántos enfermos por coronavirus hay en {location}",
+                        "cuántos contagios por coronavirus hay en {location}",
+                        "cuántos contagiados por coronavirus hay en {location}",
+                        "cuántos muertos por coronavirus hay en {location}",
+                        "cuántos fallecidos por coronavirus hay en {location}",
+                        "cuántos recuperados de coronavirus hay en {location}",
+                        "cuántos curados de coronavirus hay en {location}",
+                        "cuántos casos de coronavirus hay en {location}",
+                        "dime el estado del covid diecinueve en {location}",
+                        "cuántos afectados por covid diecinueve hay en {location}",
+                        "cuántos infectados por covid diecinueve hay en {location}",
+                        "cuántos enfermos por covid diecinueve hay en {location}",
+                        "cuántos contagios por covid diecinueve hay en {location}",
+                        "cuántos contagiados por covid diecinueve hay en {location}",
+                        "cuántos muertos por covid diecinueve hay en {location}",
+                        "cuántos fallecidos por covid diecinueve hay en {location}",
+                        "cuántos recuperados de covid diecinueve hay en {location}",
+                        "cuántos curados de covid diecinueve hay en {location}",
+                        "cuántos casos de covid diecinueve hay en {location}",
+                        "dime cuántos afectados hay en {location}",
+                        "dime cuántos infectados hay en {location}",
+                        "dime cuántos enfermos hay en {location}",
+                        "dime cuántos contagios hay en {location}",
+                        "dime cuántos contagiados hay en {location}",
+                        "dime cuántos muertos hay en {location}",
+                        "dime cuántos fallecidos hay en {location}",
+                        "dime cuántos recuperados hay en {location}",
+                        "dime cuántos curados hay en {location}",
+                        "dime cuántos casos hay en {location}",
+                        "dime cuántos afectados por coronavirus hay en {location}",
+                        "dime cuántos infectados por coronavirus hay en {location}",
+                        "dime cuántos enfermos por coronavirus hay en {location}",
+                        "dime cuántos contagios por coronavirus hay en {location}",
+                        "dime cuántos contagiados por coronavirus hay en {location}",
+                        "dime cuántos muertos por coronavirus hay en {location}",
+                        "dime cuántos fallecidos por coronavirus hay en {location}",
+                        "dime cuántos recuperados de coronavirus hay en {location}",
+                        "dime cuántos curados de coronavirus hay en {location}",
+                        "dime cuántos casos de coronavirus hay en {location}",
+                        "dime dime el estado del covid diecinueve en {location}",
+                        "dime cuántos afectados por covid diecinueve hay en {location}",
+                        "dime cuántos infectados por covid diecinueve hay en {location}",
+                        "dime cuántos enfermos por covid diecinueve hay en {location}",
+                        "dime cuántos contagios por covid diecinueve hay en {location}",
+                        "dime cuántos contagiados por covid diecinueve hay en {location}",
+                        "dime cuántos muertos por covid diecinueve hay en {location}",
+                        "dime cuántos fallecidos por covid diecinueve hay en {location}",
+                        "dime cuántos recuperados de covid diecinueve hay en {location}",
+                        "dime cuántos curados de covid diecinueve hay en {location}",
+                        "dime cuántos casos de covid diecinueve hay en {location}",
+                        "dime el número de afectados por coronavirus en {location}",
+                        "dime el número de infectados por coronavirus en {location}",
+                        "dime el número de enfermos por coronavirus en {location}",
+                        "dime el número de contagios por coronavirus en {location}",
+                        "dime el número de contagiados por coronavirus en {location}",
+                        "dime el número de muertos por coronavirus en {location}",
+                        "dime el número de fallecidos por coronavirus en {location}",
+                        "dime el número de recuperados de coronavirus en {location}",
+                        "dime el número de curados de coronavirus en {location}",
+                        "dime el número de casos de coronavirus en {location}",
+                        "dime el número de afectados por covid diecinueve en {location}",
+                        "dime el número de infectados por covid diecinueve en {location}",
+                        "dime el número de enfermos por covid diecinueve en {location}",
+                        "dime el número de contagios por covid diecinueve en {location}",
+                        "dime el número de contagiados por covid diecinueve en {location}",
+                        "dime el número de muertos por covid diecinueve en {location}",
+                        "dime el número de fallecidos por covid diecinueve en {location}",
+                        "dime el número de recuperados de covid diecinueve en {location}",
+                        "dime el número de curados de covid diecinueve en {location}",
+                        "dime el número de casos de covid diecinueve en {location}"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                }
+            ],
+            "types": []
+        },
+        "dialog": {
+            "intents": [
+                {
+                    "name": "AskByCityIntent",
+                    "confirmationRequired": false,
+                    "prompts": {},
+                    "slots": [
+                        {
+                            "name": "location",
+                            "type": "AMAZON.City",
+                            "confirmationRequired": false,
+                            "elicitationRequired": true,
+                            "prompts": {
+                                "elicitation": "Elicit.Slot.392091205253.80731046061"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "delegationStrategy": "ALWAYS"
+        },
+        "prompts": [
+            {
+                "id": "Elicit.Slot.392091205253.80731046061",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Para qué ciudad?"
+                    }
+                ]
+            }
+        ]
+    }
+}

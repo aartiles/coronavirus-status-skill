@@ -1,0 +1,48 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "es-ES": {
+          "name": "Estado Coronavirus",
+          "summary": "Información actualizada de contagios por COVID-19 en España",
+          "description": "Pregunta por el número de contagiados, fallecidos o curados para cualquier provincia de España.",
+          "examplePhrases": [
+            "Alexa abre estado coronavirus y dime cuántos casos hay en Madrid",
+            "Alexa abre estado coronavirus y dime cuántos fallecidos hay en Sevilla",
+            "Alexa abre estado coronavirus y dime cuántos recuperados hay en Murcia"
+          ],
+          "keywords": [
+            "covid19",
+            "coronavirus",
+            "covid"
+          ],
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/8551/f6caa88781874a49a8d1e917b9f31561/APP_ICON?versionId=McseIN._a0jTl7np2Nh2t4DnEpsznslT&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200314T183429Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Credential=AKIAJFEYRBGIHK2BBYKA%2F20200314%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b322cf80c5deb6519a675322fe59b0a421e8f1560729ae8d05af0db61392ed95",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/567f/9c68cd1fb0364e2996812a6150f1ee96/APP_ICON_LARGE?versionId=G2pkdSc0rHsV9IlefUaoLba8alYm78LU&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200314T183434Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Credential=AKIAJFEYRBGIHK2BBYKA%2F20200314%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=a9a812fb2fb524c6faa1414a3d7eb9f348a2b7293106809672df4319236af860"
+        }
+      },
+      "isAvailableWorldwide": false,
+      "testingInstructions": "Lanza la skill y pregunta por el estado del coronavirus para cualquier provincia de España",
+      "category": "NEWS",
+      "distributionCountries": [
+        "ES"
+      ],
+      "distributionMode": "PUBLIC"
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": "lambda/custom",
+          "uri": "ask-custom-coronavirus-default"
+        }
+      }
+    },
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "usesPersonalInfo": false,
+      "isChildDirected": false,
+      "isExportCompliant": true,
+      "containsAds": false
+    },
+    "manifestVersion": "1.0"
+  }
+}
