@@ -3,37 +3,43 @@
     "color": "Casos detectados",
     "lat": "43.361186",
     "lon": "-8.411139",
-    "metadata": ["77", "74", "3", "0", ""],
+    "metadata": [
+      "104",
+      "101",
+      "3",
+      "0",
+      "Sanidad habla de seis casos más, pero no divididos por provincias, por lo que el total ascendería en Galicia a 195."
+    ],
     "name": "A Coruña",
-    "value": "77"
+    "value": "104"
   },
   {
     "color": "Casos detectados",
     "lat": "38.3451691",
     "lon": "-0.48149",
     "metadata": [
-      "57",
-      "56",
+      "151",
+      "150",
       "0",
       "1",
-      "El primer muerto fue una persona mayor con patologías previas.<br>Hay casos en Elche San Vicente, Orihuela y Torremanzanas. Todos ellos se encuentran en aislamiento domiciliario. Dos de ellos no viajaron a zonas de riesgo, pero gente de su entorno sí."
+      "Sanidad habla de seis casos más no divididos por provincias, por lo que el total ascendería a 409. También de una muerte, por lo que el total en la Comunidad Valenciana ascendería a cinco.<br>El primer muerto fue una persona mayor con patologías previas.<br>Hay casos en Elche San Vicente, Orihuela y Torremanzanas. Todos ellos se encuentran en aislamiento domiciliario. Dos de ellos no viajaron a zonas de riesgo, pero gente de su entorno sí."
     ],
     "name": "Alacant/Alicante",
-    "value": "57"
+    "value": "151"
   },
   {
     "color": "Casos detectados",
     "lat": "38.992194",
     "lon": "-1.8956089",
     "metadata": [
-      "70",
-      "67",
+      "79",
+      "76",
       "2",
       "1",
       "La primera muerte con coronavirus en Castilla-La Mancha fue la de una mujer de 82 años en esta provincia."
     ],
     "name": "Albacete",
-    "value": "70"
+    "value": "79"
   },
   {
     "color": "Casos detectados",
@@ -54,36 +60,36 @@
     "lat": "42.869739",
     "lon": "-2.680704",
     "metadata": [
-      "360",
-      "347",
+      "409",
+      "393",
       "0",
-      "13",
-      "Cuatro personas han muerto en Vitoria. Se trata de tres mujeres de 87, 88 y 92 años y un varón de 90 años. Preocupa el hospital de Txagorritxu por el contagio de varios sanitarios cuyo origen está por identificar."
+      "16",
+      "Sanidad informa de una nueva muerte, aunque no la provincia donde ha tenido lugar, por lo que el total ascendería a 23 en todo el País Vasco. <br>Cuatro personas han muerto en Vitoria. Se trata de tres mujeres de 87, 88 y 92 años y un varón de 90 años. Preocupa el hospital de Txagorritxu por el contagio de varios sanitarios cuyo origen está por identificar."
     ],
     "name": "Araba/Álava",
-    "value": "360"
+    "value": "409"
   },
   {
     "color": "Casos detectados",
     "lat": "43.3694815",
     "lon": "-5.8836772",
     "metadata": [
-      "107",
-      "104",
-      "2",
+      "142",
+      "138",
+      "3",
       "1",
       "Un varón de 68 es el primer fallecido de esta región. Es un jefe de estudios de uno de los centros educativos que han suspendido la actividad por el brote.<br>De estas personas, 11 se encuentran ingresadas, dos en estado grave, y seis están en seguimiento domiciliario.<br>Las personas dadas de alta son dos hombres: uno de 30 años que viajó al norte de Italia y otro de 48 años que permanecía aislado en su domicilio."
     ],
     "name": "Asturias",
-    "value": "107"
+    "value": "142"
   },
   {
     "color": "Casos detectados",
     "lat": "38.8793591",
     "lon": "-7.0577191",
-    "metadata": ["26", "23", "3", "0", "Hay casos en Badajoz, Zafra, Mérida y Don Benito."],
+    "metadata": ["28", "25", "3", "0", "Hay casos en Badajoz, Zafra, Mérida y Don Benito."],
     "name": "Badajoz",
-    "value": "26"
+    "value": "28"
   },
   {
     "color": "Casos detectados",
@@ -104,114 +110,114 @@
     "lat": "43.2633534",
     "lon": "-2.951074",
     "metadata": [
-      "115",
-      "112",
+      "158",
+      "155",
       "0",
       "3",
-      "Un hombre de 82 años que fue diagnosticado con neumonía murió el mismo día en que fue diagnosticado con el Covid-19."
+      "Sanidad informa de una nueva muerte, aunque no la provincia donde ha tenido lugar, por lo que el total ascendería a 23 en todo el País Vasco. <br>Un hombre de 82 años que fue diagnosticado con neumonía murió el mismo día en que fue diagnosticado con el Covid-19."
     ],
     "name": "Bizkaia/Vizcaya",
-    "value": "115"
+    "value": "158"
   },
   {
     "color": "Casos detectados",
     "lat": "42.342344",
     "lon": "-3.701732",
     "metadata": [
-      "113",
-      "111",
+      "119",
+      "115",
       "0",
-      "2",
+      "4",
       "Varios de los infectados están ingresados en el hospital de Miranda de Ebro. Una profesional sanitaria del Servicio Vasco de Salud que  estuvo en contacto estrecho con un caso atendido en Vitoria está ingresada en el Complejo Asistencial Universitario de Burgos."
     ],
     "name": "Burgos",
-    "value": "113"
+    "value": "119"
   },
   {
     "color": "Casos detectados",
     "lat": "39.4716313",
     "lon": "-6.4257387",
     "metadata": [
-      "45",
-      "41",
+      "67",
+      "63",
       "2",
       "2",
       "La primera muerte con coronavirus en esta provincia es una mujer de 59 años de Arroyo de la Luz, cuyo funeral se ha restringido a la estricta intimidad por seguridad."
     ],
     "name": "Cáceres",
-    "value": "45"
+    "value": "67"
   },
   {
     "color": "Casos detectados",
     "lat": "36.533694",
     "lon": "-6.290707",
-    "metadata": ["29", "29", "0", "0", ""],
+    "metadata": ["34", "34", "0", "0", ""],
     "name": "Cádiz",
-    "value": "29"
+    "value": "34"
   },
   {
     "color": "Casos detectados",
     "lat": "43.4503513",
     "lon": "-3.8510124",
     "metadata": [
-      "38",
-      "29",
-      "9",
+      "41",
+      "31",
+      "10",
       "0",
-      "Todos los pacientes presentan carácter leve y tienen un  nexo epidemiológico con Italia."
+      "Sanidad confirma 10 casos más, por lo que el total en la comunidad es de 51.<br>Todos los pacientes presentan carácter leve y tienen un  nexo epidemiológico con Italia."
     ],
     "name": "Cantabria",
-    "value": "38"
+    "value": "41"
   },
   {
     "color": "Casos detectados",
     "lat": "39.988835",
     "lon": "-0.041025",
     "metadata": [
-      "7",
-      "6",
+      "25",
+      "24",
       "1",
       "0",
-      "El hombre diagnosticado en Vila-Real que había viajado a Milán fue dado de alta el 6 de marzo."
+      "Sanidad habla de seis casos más no divididos por provincias, por lo que el total ascendería a 409. También de una muerte, por lo que el total en la Comunidad Valenciana ascendería a cinco.<br>El hombre diagnosticado en Vila-Real que había viajado a Milán fue dado de alta el 6 de marzo."
     ],
     "name": "Castelló/Castellón",
-    "value": "7"
+    "value": "25"
   },
   {
     "color": "Casos detectados",
     "lat": "38.984637",
     "lon": "-3.929478",
-    "metadata": ["49", "45", "2", "2", "Hay un caso en Ciudad Real y otro en Tomelloso."],
+    "metadata": ["85", "76", "4", "5", "Hay un caso en Ciudad Real y otro en Tomelloso."],
     "name": "Ciudad Real",
-    "value": "49"
+    "value": "85"
   },
   {
     "color": "Casos detectados",
     "lat": "37.8915500",
     "lon": "-4.7727500",
     "metadata": [
-      "35",
-      "35",
+      "37",
+      "37",
       "0",
       "0",
       "Entre ellos hay un hombre de 26 años que había viajado recientemente a Italia."
     ],
     "name": "Córdoba",
-    "value": "35"
+    "value": "37"
   },
   {
     "color": "Casos detectados",
     "lat": "28.389891",
     "lon": "-14.048134",
     "metadata": [
-      "1",
-      "1",
+      "3",
+      "3",
       "0",
       "0",
       "Sanidad ha informado de cinco casos más de los que comunica la consejería de Sanidad de la comunidad. <br>El único caso confirmado hasta ahora en la isla es el de una persona que viajó a Italia y que ya recibió el alta."
     ],
     "name": "Fuerteventura",
-    "value": "1"
+    "value": "3"
   },
   {
     "color": "Casos detectados",
@@ -226,50 +232,50 @@
     "lat": "43.154491",
     "lon": "-2.218345",
     "metadata": [
-      "46",
-      "43",
+      "63",
+      "60",
       "0",
       "3",
-      "Un paciente que había viajado en los últimos 15 días a Italia o Andalucía. El otro es un profesional sanitario que no guarda relación alguna con pacientes de riesgo."
+      "Sanidad informa de una nueva muerte, aunque no la provincia donde ha tenido lugar, por lo que el total ascendería a 23 en todo el País Vasco. <br>Un paciente que había viajado en los últimos 15 días a Italia o Andalucía. El otro es un profesional sanitario que no guarda relación alguna con pacientes de riesgo."
     ],
     "name": "Gipuzkoa/Guipúzcoa",
-    "value": "46"
+    "value": "63"
   },
   {
     "color": "Casos detectados",
     "lat": "28.123639",
     "lon": "-15.441334",
     "metadata": [
-      "17",
-      "16",
+      "20",
+      "19",
       "0",
       "1",
       "El primer fallecimiento fue el de una mujer de más de 80 años con patologías previas el 13 de marzo. <br>Sanidad ha informado de cinco casos más de los que comunica la consejería de Sanidad de la comunidad.<br>Cuatro mujeres italianas han dado positivo. Otros dos turistas holandeses han ingresado en la región, pero ambos permanecen estables."
     ],
     "name": "Gran Canaria",
-    "value": "17"
+    "value": "20"
   },
   {
     "color": "Casos detectados",
     "lat": "40.068536",
     "lon": "-2.139614",
-    "metadata": ["24", "22", "0", "2", ""],
+    "metadata": ["30", "28", "0", "2", ""],
     "name": "Cuenca",
-    "value": "24"
+    "value": "30"
   },
   {
     "color": "Casos detectados",
     "lat": "40.6304428",
     "lon": "-3.1693281",
     "metadata": [
-      "88",
-      "88",
-      "0",
+      "109",
+      "107",
+      "2",
       "0",
       "La mayoría de pacientes están ingresados en el  Hospital Universitario de Guadalajara."
     ],
     "name": "Guadalajara",
-    "value": "88"
+    "value": "109"
   },
   {
     "color": "Casos detectados",
@@ -284,14 +290,14 @@
     "lat": "37.777244",
     "lon": "-3.789398",
     "metadata": [
-      "38",
-      "37",
+      "47",
+      "45",
       "0",
-      "1",
+      "2",
       "El fallecido era un hombre de 89 años, ingresado con patologías previas. <br>Entre ellos hay una enfermera de 25 años de Arjonilla que trató a uno de los pacientes contagiados en Torrejón de Ardoz (Madrid)."
     ],
     "name": "Jaén",
-    "value": "38"
+    "value": "47"
   },
   {
     "color": "Casos detectados",
@@ -312,134 +318,134 @@
     "lat": "42.464168",
     "lon": "-2.453673",
     "metadata": [
-      "292",
-      "288",
+      "300",
+      "296",
       "1",
       "3",
       "Sanidad destaca que la cantidad de casos en esta comunidad autónoma está asociada a un único evento de transmisión, que no debería suponer un riesgo poblacional."
     ],
     "name": "La Rioja",
-    "value": "292"
+    "value": "300"
   },
   {
     "color": "Casos detectados",
     "lat": "42.015064",
     "lon": "-4.530044",
-    "metadata": ["3", "3", "0", "0", ""],
+    "metadata": ["5", "5", "0", "0", ""],
     "name": "Palencia",
-    "value": "3"
+    "value": "5"
   },
   {
     "color": "Casos detectados",
     "lat": "42.6036003",
     "lon": "-5.6124107",
     "metadata": [
-      "33",
-      "32",
+      "47",
+      "45",
       "1",
-      "0",
+      "1",
       "Cinco personas han sido diagnosticadas, entre ellas un hombre de 62 años que viajó a Lombardía (Italia) dos veces en febrero por motivos de trabajo."
     ],
     "name": "León",
-    "value": "33"
+    "value": "47"
   },
   {
     "color": "Casos detectados",
     "lat": "40.4165000",
     "lon": "-3.7025600",
     "metadata": [
-      "2940",
-      "2807",
+      "3544",
+      "3331",
       "0",
-      "133",
+      "213",
       "El consejero de Sanidad ha avanzado que la cifra de contagios es \"casi 2.000\". La primera muerte en Madrid fue la de una mujer de 99 años el 3 de marzo. La subida del número de casos ha hecho que la Comunidad decrete medidas excepcionales como el cierre de centros educativos a todos los niveles."
     ],
     "name": "Madrid",
-    "value": "2940"
+    "value": "3544"
   },
   {
     "color": "Casos detectados",
     "lat": "36.7183391",
     "lon": "-4.5193067",
     "metadata": [
-      "159",
-      "155",
+      "180",
+      "176",
       "0",
       "4",
       "El primer muerto de la comunidad se ha registrado aquí. Se trata de un hombre de 70 años con patologías previas. <br>Se han diagnosticado casos en Málaga, Alhurín de la Torre, Fuengirola y Marbella. Entre ellos hay personas que habían viajado recientemente a Emilia-Romagna y otros casos relacionados con el primer paciente confirmado en la región, que se encuentra en Sevilla."
     ],
     "name": "Málaga",
-    "value": "159"
+    "value": "180"
   },
   {
     "color": "Casos detectados",
     "lat": "39.568763",
     "lon": "2.640982",
     "metadata": [
-      "44",
-      "41",
+      "55",
+      "52",
       "2",
       "1",
       "Se han registrado casos en Mallorca, Menorca e Ibiza.<br>El primer fallecimiento en esta comunidad autónoma fue el de una mujer con patología crónica que había dado positivo y estaba ingresada en el Hospital Universitario Son Espases. Además, hay dos personas dadas de alta, el primero un hombre desde hace un mes.<br>NOTA: La Consejería de Salud y Consumo no ofrece datos desglosados por islas."
     ],
     "name": "Illes Balears",
-    "value": "44"
+    "value": "55"
   },
   {
     "color": "Casos detectados",
     "lat": "35.291937",
     "lon": "-2.938484",
     "metadata": [
-      "6",
-      "6",
+      "8",
+      "8",
       "0",
       "0",
       "Los dos primeros pacientes  permanecen en aislamiento en el Hospital Comarcal. El estado de las dos personas es estable y la sintomatología que presentan es muy leve. <br><br><p>MEDIDAS EN LA PROVINCIA:</p>\n\n<ul>\n<li><a href=\"https://www.rtve.es/noticias/20200312/pais-vasco-cierra-centros-educativos-coronavirus/2009123.shtml\"><strong>Cierre de todos los centros educativos a partir del 16 de marzo</strong></a> y durante 15 d&iacute;as.</li>\n\n<p></p>\n\n<p>MEDIDAS A NIVEL NACIONAL:</p>\n\n<ul>\n<li>Los casos de contagio ser&aacute;n considerados como <strong>bajas por incapacidad laboral</strong>.</li>\n<li>Suspendidos todos los <strong>viajes del Imserso</strong> durante un mes.</li>\n<li>Suspendidos los <strong>vuelos desde Italia</strong> hasta el d&iacute;a 25 de marzo.</li>\n<li>Todos los<strong> eventos deportivos se jugar&aacute;n</strong>&nbsp;<strong>a puerta cerrada.&nbsp;</strong>La Liga ha suspendido la competici&oacute;n de primera y segunda divisi&oacute;n dos semanas.</li>\n</ul>\n\n<p><a 20200309=\"\" hay-hacer-si-tengo-sintomas-coronavirus=\"\" href=\"\" https:=\"\" noticias=\"\" www.rtve.es=\"\"><strong>&iquest;Qu&eacute; hacer si tengo s&iacute;ntomas de coronavirus?</strong></a></p>"
     ],
     "name": "Melilla",
-    "value": "6"
+    "value": "8"
   },
   {
     "color": "Casos detectados",
     "lat": "37.9805272",
     "lon": "-1.1621948",
     "metadata": [
-      "53",
-      "53",
+      "78",
+      "78",
       "0",
       "0",
       "El primer caso de coronavirus en Murcia se trata de una mujer de 27 años que viajó recientemente a Madrid y se encuentra ingresada en el hospital Virgen de la Arrixaca, de El Palmar, mientras que el segundo caso es un bebé de cinco meses con síntomas leves procedente de un viaje a Madrid. Además, la madre del bebé ha dado positivo. A ellos se suma una mujer de 28 años que estuvo en contacto con la primera infectada."
     ],
     "name": "Murcia",
-    "value": "53"
+    "value": "78"
   },
   {
     "color": "Casos detectados",
     "lat": "42.8157447",
     "lon": "-1.7200615",
     "metadata": [
-      "183",
-      "180",
+      "196",
+      "193",
       "2",
       "1",
       "La primera fallecida en la región es una mujer de 87 años que estaba ingresada desde el 12 de marzo.<br>De entre los casos, algunos estaban vinculados al entorno familiar cercano de los positivos registrados en días previos. Los trece pacientes que se encuentran actualmente ingresados en centros hospitalarios o en atención domiciliaria permanecen estables."
     ],
     "name": "Navarra",
-    "value": "183"
+    "value": "196"
   },
   {
     "color": "Casos detectados",
     "lat": "40.9688200",
     "lon": "-5.6638800",
     "metadata": [
-      "12",
-      "9",
+      "31",
+      "27",
       "1",
-      "2",
+      "3",
       "El primer fallecido en esta comunidad se trata de un varón de 81 años que tenía neumonía y patologías previas.<br>Uno de los contagiados es una estudiante de 19 años que viajó a Italia en febrero."
     ],
     "name": "Salamanca",
-    "value": "12"
+    "value": "31"
   },
   {
     "color": "Casos detectados",
@@ -453,155 +459,167 @@
     "color": "Casos detectados",
     "lat": "41.766032",
     "lon": "-2.477326",
-    "metadata": ["4", "4", "0", "0", ""],
+    "metadata": ["5", "5", "0", "0", ""],
     "name": "Soria",
-    "value": "4"
+    "value": "5"
   },
   {
     "color": "Casos detectados",
     "lat": "40.944132",
     "lon": "-4.109112",
     "metadata": [
-      "22",
-      "21",
+      "27",
+      "26",
       "0",
       "1",
       "Los dos casos son hombres jóvenes que habían regresado recientemente de Italia y ha dado positivo en coronavirus."
     ],
     "name": "Segovia",
-    "value": "22"
+    "value": "27"
   },
   {
     "color": "Casos detectados",
     "lat": "37.3842599",
     "lon": "-5.9951171",
     "metadata": [
-      "52",
-      "51",
+      "62",
+      "61",
       "0",
       "1",
       "En esta provincia se detectó el caso del primer paciente que no había viajado fuera de España, un hombre de 62 años ingresado en el Hospital Universitario Virgen del  Rocío. Los sanitarios que lo trataron también han dado positivo."
     ],
     "name": "Sevilla",
-    "value": "52"
+    "value": "62"
   },
   {
     "color": "Casos detectados",
     "lat": "28.463688",
     "lon": " -16.254065",
     "metadata": [
-      "63",
-      "58",
+      "75",
+      "70",
       "5",
       "0",
       "Sanidad ha informado de cinco casos más de los que comunica la consejería de Sanidad de la comunidad.\n<b>La mayoría de los casos se relacionan con la localidad de Adeje. Una persona ha sido de alta."
     ],
     "name": "Tenerife",
-    "value": "63"
+    "value": "75"
   },
   {
     "color": "Casos detectados",
     "lat": "39.8622699",
     "lon": "-4.0344493",
-    "metadata": ["58", "56", "1", "1", ""],
+    "metadata": ["98", "91", "5", "2", ""],
     "name": "Toledo",
-    "value": "58"
+    "value": "98"
   },
   {
     "color": "Casos detectados",
     "lat": "39.4697500",
     "lon": " -0.3773900",
     "metadata": [
-      "124",
-      "122",
+      "227",
+      "224",
       "0",
-      "2",
-      "La Comunidad Valenciana ha confirmado el primer paciente fallecido en España con coranavirus. Se trata de un hombre que murió el 13 de febrero en Arnau de Vilanova, según una investigación retrospectiva."
+      "3",
+      "Sanidad habla de seis casos más no divididos por provincias, por lo que el total ascendería a 409. También de una muerte, por lo que el total en la Comunidad Valenciana ascendería a cinco.<br><br>La Comunidad Valenciana ha confirmado el primer paciente fallecido en España con coranavirus. Se trata de un hombre que murió el 13 de febrero en Arnau de Vilanova, según una investigación retrospectiva."
     ],
     "name": "València/Valencia",
-    "value": "124"
+    "value": "227"
   },
   {
     "color": "Casos detectados",
     "lat": "41.712327",
     "lon": "-4.730597",
     "metadata": [
-      "21",
-      "21",
+      "40",
+      "40",
       "0",
       "0",
       "Un hombre de 28 años originario de Irán se encuentra ingresado en el Hospital Universitario Río Hortega de Valladolid. La otra diagnosticada es una joven de 21 años."
     ],
     "name": "Valladolid",
-    "value": "21"
+    "value": "40"
   },
   {
     "color": "Casos detectados",
     "lat": "41.5063300",
     "lon": "-5.7445600",
-    "metadata": ["5", "5", "0", "0", ""],
+    "metadata": ["8", "8", "0", "0", ""],
     "name": "Zamora",
-    "value": "5"
+    "value": "8"
   },
   {
     "color": "Casos detectados",
     "lat": "41.669635",
     "lon": "-0.890789",
     "metadata": [
-      "121",
-      "114",
+      "147",
+      "140",
       "0",
       "7",
       "En Aragón se han confirmado casos en Zaragoza, Huesca y Teruel. Entre los fallecidos hay tres hombres de 87, 85 y 93 años.<br>\nNOTA: El Gobierno de Aragón no facilita datos desglosados por provincias."
     ],
     "name": "Aragón",
-    "value": "121"
+    "value": "147"
   },
   {
     "color": "Casos detectados",
     "lat": "37.185112",
     "lon": "-3.603804",
-    "metadata": ["43", "43", "0", "0", ""],
+    "metadata": ["57", "57", "0", "0", ""],
     "name": "Granada",
-    "value": "43"
+    "value": "57"
   },
   {
     "color": "Casos detectados",
     "lat": "28.712026",
     "lon": "-17.891119",
-    "metadata": ["3", "3", "0", "0", ""],
+    "metadata": ["5", "5", "0", "0", ""],
     "name": "La Palma",
-    "value": "3"
+    "value": "5"
   },
   {
     "color": "Casos detectados",
     "lat": "43.009960",
     "lon": "-7.558646",
-    "metadata": ["7", "7", "0", "0", ""],
+    "metadata": [
+      "9",
+      "9",
+      "0",
+      "0",
+      "Sanidad habla de seis casos más, pero no divididos por provincias, por lo que el total ascendería en Galicia a 195."
+    ],
     "name": "Lugo",
-    "value": "7"
+    "value": "9"
   },
   {
     "color": "Casos detectados",
     "lat": "42.335316",
     "lon": "-7.864973",
-    "metadata": ["15", "15", "0", "0", ""],
+    "metadata": [
+      "22",
+      "22",
+      "0",
+      "0",
+      "Sanidad habla de seis casos más, pero no divididos por provincias, por lo que el total ascendería en Galicia a 195."
+    ],
     "name": "Ourense",
-    "value": "15"
+    "value": "22"
   },
   {
     "color": "Casos detectados",
     "lat": "42.430185",
     "lon": "-8.644496",
     "metadata": [
-      "36",
-      "35",
+      "54",
+      "52",
       "0",
       "2",
-      "La fallecida era una mujer de 92 años con \"múltiples patologías\" que estaba ingresada en Vigo."
+      "Sanidad habla de seis casos más, pero no divididos por provincias, por lo que el total ascendería en Galicia a 195.<br>La primera fallecida era una mujer de 92 años con \"múltiples patologías\" que estaba ingresada en Vigo."
     ],
     "name": "Pontevedra",
-    "value": "36"
+    "value": "54"
   },
   {
     "color": "Municipios confinados",

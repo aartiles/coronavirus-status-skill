@@ -10,7 +10,7 @@ describe('AskByCityIntentHandler', () => {
 
     await AskByCityIntentHandler.handle(handlerInput);
 
-    const expectedMsgParams = 'STATUS_MSG,Cordoba,35,35,0,0,<s>Entre ellos hay un hombre de 26 años que había viajado recientemente a Italia.</s>';
+    const expectedMsgParams = 'STATUS_MSG,Cordoba,37,37,0,0,<s>Entre ellos hay un hombre de 26 años que había viajado recientemente a Italia.</s>';
     should(handlerInput.speakLastCallArgument()).be.eql(expectedMsgParams);
   });
 
