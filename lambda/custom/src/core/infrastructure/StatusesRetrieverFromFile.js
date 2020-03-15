@@ -1,6 +1,6 @@
 'use strict';
 
-const statuses = require('./statuses.json');
+const statuses = require('../../../data/statuses.json');
 
 module.exports = ({ path }) => {
   const that = {};

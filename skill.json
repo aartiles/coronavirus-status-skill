@@ -5,7 +5,7 @@
         "es-ES": {
           "name": "Estado Coronavirus",
           "summary": "Información actualizada de contagios por COVID-19 en España",
-          "description": "Pregunta por el número de contagiados, fallecidos o curados para cualquier provincia de España.",
+          "description": "Pregunta por el número de contagiados, fallecidos o curados para cualquier provincia de España. Datos obtenidos del mapa creado por RTVE https://www.rtve.es/noticias/20200315/mapa-del-coronavirus-espana/2004681.shtml. El código fuente de esta skill está abierto en https://github.com/aartiles/coronavirus-status-skill.",
           "examplePhrases": [
             "Alexa abre estado coronavirus y dime cuántos casos hay en Madrid",
             "Alexa abre estado coronavirus y dime cuántos fallecidos hay en Sevilla",
