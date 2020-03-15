@@ -7,8 +7,11 @@ describe('AskByCityIntentHandler', () => {
 
   it('should return no statuse when there isn\'t', async () => {
     const handlerInput = handlerInputBuilder();
+
     await AskByCityIntentHandler.handle(handlerInput);
-    should(handlerInput.speakLastCallArgument()).be.eql('STATUS_MSG,Cordoba,23,23,0,0,<s>Entre ellos hay un hombre de 26 años que había viajado recientemente a Italia.</s>');
+
+    const expectedMsgParams = 'STATUS_MSG,Cordoba,35,35,0,0,<s>Entre ellos hay un hombre de 26 años que había viajado recientemente a Italia.</s>';
+    should(handlerInput.speakLastCallArgument()).be.eql(expectedMsgParams);
   });
 
   function handlerInputBuilder() {
