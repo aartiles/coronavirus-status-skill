@@ -139,9 +139,9 @@
     "lon": "-6.4257387",
     "metadata": [
       "67",
-      "63",
+      "62",
       "2",
-      "2",
+      "3",
       "La primera muerte con coronavirus en esta provincia es una mujer de 59 años de Arroyo de la Luz, cuyo funeral se ha restringido a la estricta intimidad por seguridad."
     ],
     "name": "Cáceres",
@@ -424,14 +424,14 @@
     "lat": "42.8157447",
     "lon": "-1.7200615",
     "metadata": [
-      "196",
-      "193",
+      "234",
+      "231",
       "2",
       "1",
       "La primera fallecida en la región es una mujer de 87 años que estaba ingresada desde el 12 de marzo.<br>De entre los casos, algunos estaban vinculados al entorno familiar cercano de los positivos registrados en días previos. Los trece pacientes que se encuentran actualmente ingresados en centros hospitalarios o en atención domiciliaria permanecen estables."
     ],
     "name": "Navarra",
-    "value": "196"
+    "value": "234"
   },
   {
     "color": "Casos detectados",
